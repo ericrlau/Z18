@@ -25,6 +25,10 @@ $ nrfjprog -f nrf52 --program firmware/bootloader/COBO_nrf52840_bootloader-0.3.2
 
 ## ToDo 
 - Everything :)
+- check the esd pinout
+- connect encoder in schematic
+- check footprint for E73
+- check crystal footprint and cap values
 
 ## Images
 
