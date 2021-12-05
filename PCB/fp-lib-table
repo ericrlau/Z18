@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "COBoards")(type "KiCad")(uri "/Users/ericlau/git/KiCad/COBoards.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "/Users/ericlau/git/Keebio-Parts.pretty")(options "")(descr ""))
+)
